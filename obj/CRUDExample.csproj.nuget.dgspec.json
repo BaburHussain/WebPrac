@@ -1,0 +1,270 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\VS_Pro\\A-WebApplicationClassesPractice\\WebCRUDexample\\07. Attribute Routing\\CRUDExample\\CRUDExample.csproj": {}
+  },
+  "projects": {
+    "D:\\VS_Pro\\A-WebApplicationClassesPractice\\WebCRUDexample\\07. Attribute Routing\\CRUDExample\\CRUDExample.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\VS_Pro\\A-WebApplicationClassesPractice\\WebCRUDexample\\07. Attribute Routing\\CRUDExample\\CRUDExample.csproj",
+        "projectName": "CRUDExample",
+        "projectPath": "D:\\VS_Pro\\A-WebApplicationClassesPractice\\WebCRUDexample\\07. Attribute Routing\\CRUDExample\\CRUDExample.csproj",
+        "packagesPath": "C:\\Users\\Babur Hussain\\.nuget\\packages\\",
+        "outputPath": "D:\\VS_Pro\\A-WebApplicationClassesPractice\\WebCRUDexample\\07. Attribute Routing\\CRUDExample\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Babur Hussain\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.302\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\VS_Pro\\A-WebApplicationClassesPractice\\WebCRUDexample\\07. Attribute Routing\\Entities\\Entities.csproj": {
+                "projectPath": "D:\\VS_Pro\\A-WebApplicationClassesPractice\\WebCRUDexample\\07. Attribute Routing\\Entities\\Entities.csproj"
+              },
+              "D:\\VS_Pro\\A-WebApplicationClassesPractice\\WebCRUDexample\\07. Attribute Routing\\ServiceContracts\\ServiceContracts.csproj": {
+                "projectPath": "D:\\VS_Pro\\A-WebApplicationClassesPractice\\WebCRUDexample\\07. Attribute Routing\\ServiceContracts\\ServiceContracts.csproj"
+              },
+              "D:\\VS_Pro\\A-WebApplicationClassesPractice\\WebCRUDexample\\07. Attribute Routing\\Services\\Services.csproj": {
+                "projectPath": "D:\\VS_Pro\\A-WebApplicationClassesPractice\\WebCRUDexample\\07. Attribute Routing\\Services\\Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\VS_Pro\\A-WebApplicationClassesPractice\\WebCRUDexample\\07. Attribute Routing\\Entities\\Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\VS_Pro\\A-WebApplicationClassesPractice\\WebCRUDexample\\07. Attribute Routing\\Entities\\Entities.csproj",
+        "projectName": "Entities",
+        "projectPath": "D:\\VS_Pro\\A-WebApplicationClassesPractice\\WebCRUDexample\\07. Attribute Routing\\Entities\\Entities.csproj",
+        "packagesPath": "C:\\Users\\Babur Hussain\\.nuget\\packages\\",
+        "outputPath": "D:\\VS_Pro\\A-WebApplicationClassesPractice\\WebCRUDexample\\07. Attribute Routing\\Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Babur Hussain\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\VS_Pro\\A-WebApplicationClassesPractice\\WebCRUDexample\\07. Attribute Routing\\ServiceContracts\\ServiceContracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\VS_Pro\\A-WebApplicationClassesPractice\\WebCRUDexample\\07. Attribute Routing\\ServiceContracts\\ServiceContracts.csproj",
+        "projectName": "ServiceContracts",
+        "projectPath": "D:\\VS_Pro\\A-WebApplicationClassesPractice\\WebCRUDexample\\07. Attribute Routing\\ServiceContracts\\ServiceContracts.csproj",
+        "packagesPath": "C:\\Users\\Babur Hussain\\.nuget\\packages\\",
+        "outputPath": "D:\\VS_Pro\\A-WebApplicationClassesPractice\\WebCRUDexample\\07. Attribute Routing\\ServiceContracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Babur Hussain\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\VS_Pro\\A-WebApplicationClassesPractice\\WebCRUDexample\\07. Attribute Routing\\Entities\\Entities.csproj": {
+                "projectPath": "D:\\VS_Pro\\A-WebApplicationClassesPractice\\WebCRUDexample\\07. Attribute Routing\\Entities\\Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\VS_Pro\\A-WebApplicationClassesPractice\\WebCRUDexample\\07. Attribute Routing\\Services\\Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\VS_Pro\\A-WebApplicationClassesPractice\\WebCRUDexample\\07. Attribute Routing\\Services\\Services.csproj",
+        "projectName": "Services",
+        "projectPath": "D:\\VS_Pro\\A-WebApplicationClassesPractice\\WebCRUDexample\\07. Attribute Routing\\Services\\Services.csproj",
+        "packagesPath": "C:\\Users\\Babur Hussain\\.nuget\\packages\\",
+        "outputPath": "D:\\VS_Pro\\A-WebApplicationClassesPractice\\WebCRUDexample\\07. Attribute Routing\\Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Babur Hussain\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\VS_Pro\\A-WebApplicationClassesPractice\\WebCRUDexample\\07. Attribute Routing\\ServiceContracts\\ServiceContracts.csproj": {
+                "projectPath": "D:\\VS_Pro\\A-WebApplicationClassesPractice\\WebCRUDexample\\07. Attribute Routing\\ServiceContracts\\ServiceContracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
