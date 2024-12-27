@@ -1,0 +1,51 @@
+D:\fromGit\AspNetCore-Harsha\15. CRUD Operations\07. Attribute Routing\Services\bin\Debug\net6.0\Services.deps.json
+D:\fromGit\AspNetCore-Harsha\15. CRUD Operations\07. Attribute Routing\Services\bin\Debug\net6.0\Services.dll
+D:\fromGit\AspNetCore-Harsha\15. CRUD Operations\07. Attribute Routing\Services\bin\Debug\net6.0\Services.pdb
+D:\fromGit\AspNetCore-Harsha\15. CRUD Operations\07. Attribute Routing\Services\bin\Debug\net6.0\Entities.dll
+D:\fromGit\AspNetCore-Harsha\15. CRUD Operations\07. Attribute Routing\Services\bin\Debug\net6.0\ServiceContracts.dll
+D:\fromGit\AspNetCore-Harsha\15. CRUD Operations\07. Attribute Routing\Services\bin\Debug\net6.0\ServiceContracts.pdb
+D:\fromGit\AspNetCore-Harsha\15. CRUD Operations\07. Attribute Routing\Services\bin\Debug\net6.0\Entities.pdb
+D:\fromGit\AspNetCore-Harsha\15. CRUD Operations\07. Attribute Routing\Services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
+D:\fromGit\AspNetCore-Harsha\15. CRUD Operations\07. Attribute Routing\Services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\fromGit\AspNetCore-Harsha\15. CRUD Operations\07. Attribute Routing\Services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+D:\fromGit\AspNetCore-Harsha\15. CRUD Operations\07. Attribute Routing\Services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+D:\fromGit\AspNetCore-Harsha\15. CRUD Operations\07. Attribute Routing\Services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+D:\fromGit\AspNetCore-Harsha\15. CRUD Operations\07. Attribute Routing\Services\obj\Debug\net6.0\Services.csproj.CopyComplete
+D:\fromGit\AspNetCore-Harsha\15. CRUD Operations\07. Attribute Routing\Services\obj\Debug\net6.0\Services.dll
+D:\fromGit\AspNetCore-Harsha\15. CRUD Operations\07. Attribute Routing\Services\obj\Debug\net6.0\refint\Services.dll
+D:\fromGit\AspNetCore-Harsha\15. CRUD Operations\07. Attribute Routing\Services\obj\Debug\net6.0\Services.pdb
+D:\fromGit\AspNetCore-Harsha\15. CRUD Operations\07. Attribute Routing\Services\obj\Debug\net6.0\ref\Services.dll
+D:\VS_Pro\A-WebApplicationClassesPractice\WebCRUDexample\07. Attribute Routing\Services\bin\Debug\net6.0\Services.deps.json
+D:\VS_Pro\A-WebApplicationClassesPractice\WebCRUDexample\07. Attribute Routing\Services\bin\Debug\net6.0\Services.dll
+D:\VS_Pro\A-WebApplicationClassesPractice\WebCRUDexample\07. Attribute Routing\Services\bin\Debug\net6.0\Services.pdb
+D:\VS_Pro\A-WebApplicationClassesPractice\WebCRUDexample\07. Attribute Routing\Services\bin\Debug\net6.0\Entities.dll
+D:\VS_Pro\A-WebApplicationClassesPractice\WebCRUDexample\07. Attribute Routing\Services\bin\Debug\net6.0\ServiceContracts.dll
+D:\VS_Pro\A-WebApplicationClassesPractice\WebCRUDexample\07. Attribute Routing\Services\bin\Debug\net6.0\ServiceContracts.pdb
+D:\VS_Pro\A-WebApplicationClassesPractice\WebCRUDexample\07. Attribute Routing\Services\bin\Debug\net6.0\Entities.pdb
+D:\VS_Pro\A-WebApplicationClassesPractice\WebCRUDexample\07. Attribute Routing\Services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
+D:\VS_Pro\A-WebApplicationClassesPractice\WebCRUDexample\07. Attribute Routing\Services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS_Pro\A-WebApplicationClassesPractice\WebCRUDexample\07. Attribute Routing\Services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+D:\VS_Pro\A-WebApplicationClassesPractice\WebCRUDexample\07. Attribute Routing\Services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+D:\VS_Pro\A-WebApplicationClassesPractice\WebCRUDexample\07. Attribute Routing\Services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+D:\VS_Pro\A-WebApplicationClassesPractice\WebCRUDexample\07. Attribute Routing\Services\obj\Debug\net6.0\Services.csproj.CopyComplete
+D:\VS_Pro\A-WebApplicationClassesPractice\WebCRUDexample\07. Attribute Routing\Services\obj\Debug\net6.0\Services.dll
+D:\VS_Pro\A-WebApplicationClassesPractice\WebCRUDexample\07. Attribute Routing\Services\obj\Debug\net6.0\refint\Services.dll
+D:\VS_Pro\A-WebApplicationClassesPractice\WebCRUDexample\07. Attribute Routing\Services\obj\Debug\net6.0\Services.pdb
+D:\VS_Pro\A-WebApplicationClassesPractice\WebCRUDexample\07. Attribute Routing\Services\obj\Debug\net6.0\ref\Services.dll
+D:\fromGit\WebPrac\BaburHussain\WebPrac\Services\bin\Debug\net6.0\Services.deps.json
+D:\fromGit\WebPrac\BaburHussain\WebPrac\Services\bin\Debug\net6.0\Services.dll
+D:\fromGit\WebPrac\BaburHussain\WebPrac\Services\bin\Debug\net6.0\Services.pdb
+D:\fromGit\WebPrac\BaburHussain\WebPrac\Services\bin\Debug\net6.0\Entities.dll
+D:\fromGit\WebPrac\BaburHussain\WebPrac\Services\bin\Debug\net6.0\ServiceContracts.dll
+D:\fromGit\WebPrac\BaburHussain\WebPrac\Services\bin\Debug\net6.0\ServiceContracts.pdb
+D:\fromGit\WebPrac\BaburHussain\WebPrac\Services\bin\Debug\net6.0\Entities.pdb
+D:\fromGit\WebPrac\BaburHussain\WebPrac\Services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
+D:\fromGit\WebPrac\BaburHussain\WebPrac\Services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\fromGit\WebPrac\BaburHussain\WebPrac\Services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+D:\fromGit\WebPrac\BaburHussain\WebPrac\Services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+D:\fromGit\WebPrac\BaburHussain\WebPrac\Services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+D:\fromGit\WebPrac\BaburHussain\WebPrac\Services\obj\Debug\net6.0\Services.csproj.CopyComplete
+D:\fromGit\WebPrac\BaburHussain\WebPrac\Services\obj\Debug\net6.0\Services.dll
+D:\fromGit\WebPrac\BaburHussain\WebPrac\Services\obj\Debug\net6.0\refint\Services.dll
+D:\fromGit\WebPrac\BaburHussain\WebPrac\Services\obj\Debug\net6.0\Services.pdb
+D:\fromGit\WebPrac\BaburHussain\WebPrac\Services\obj\Debug\net6.0\ref\Services.dll
